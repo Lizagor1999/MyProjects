@@ -1,0 +1,267 @@
+body{
+	margin: 0px;
+}
+.Header{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	background: url("Picture1.png") no-repeat;
+	height: 850px;
+	margin:0 auto;
+	padding-top: 10%;
+	background-size: cover;
+	
+}
+.Logo{
+	display: block;
+	margin-top: -50px;
+	
+}
+.Besure{
+  font-size: 49px;
+  line-height: 15px;
+  font-weight: 400;
+  text-align: center;
+  color: white;
+  padding-top: 77px;
+}
+.Besure p{
+	font-size: 46px;
+	text-transform: uppercase;
+	font-family: Open Sans;
+}
+.Besure b{
+	text-transform: uppercase;
+	font-family: Open Sans;
+}
+.Square{
+	width: 336px;
+	height: 336px;
+	background: white;
+    margin: 0 auto;
+	margin-top: 220px;
+
+}
+.Zipcode{
+	border: 2px solid #e5e5e5;
+	border-radius: 1px;
+	width: 266px;
+	height: 36px;
+	font-size: 15px;
+	
+}
+.Square form{
+	padding-top: 15px;
+	margin-bottom: 20px;
+}
+.Text1{
+
+font-size: 15px;
+color: #938e8e;
+font-family: "Open Sans";
+font-weight: 400;
+text-align: center;
+margin-top: 30px;
+}
+.Button_1{
+	border: 2px solid lightblue;
+	width: 189px;
+	height: 40px;
+	border-radius: 2px;
+    background: #227dd3;
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.Button_1:hover{
+	background: darkblue;
+}
+.Content1{
+	height: 400px;
+}
+
+.Row{
+	margin: 0 auto;
+	margin-top: 170px;
+	margin-bottom: 110px;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	width: 63%;
+    
+	
+
+}
+.Documents{
+	margin-left: 200px;
+}
+.TextDocum{
+	display: flex;
+	flex-direction: column;
+	margin-left: 30px;
+	padding-top: 10px;
+	width: 268px;
+}
+.h1{
+	font-size: 27px;
+	font-family: "Open Sans";
+	font-weight: 600;
+}
+.h2{
+	padding-top: 20px;
+	font-size: 14px;
+	color: #4f4e4e;
+font-family: "Open Sans";
+}
+.Photos{
+	margin-left: 80px;
+}
+.Content2{
+	background: url(backgr.png) no-repeat;
+	background-size: cover;
+	height: 1700px;
+	padding-top: 100px;
+}
+.InnerFirst{
+	width: 50%;
+	margin: 0 auto;
+}
+.Shadow1{
+	margin: 0 auto;
+	margin-top: 120px;
+	display: block;
+	margin-left: -2%;
+    width: 70%;
+	
+}
+.Thisis{
+	font-size: 39px;
+	font-family: "Open Sans";
+	margin-top: -300px;
+	color: white;
+	text-align: center;
+}
+.SmallTxt{
+	font-size: 14px;
+	font-family: "Open Sans";
+	color: white;
+	margin: 0 auto;
+	width: 655px;
+	padding-top: 37px;
+
+}
+.Comp{
+	width: 75%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+	margin-top: 350px;
+	padding-top: 250px;
+	overflow: hidden;
+
+}
+
+.Column{
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	padding-left: 75px;
+}
+.Thisis1{
+	font-size: 39px;
+	font-family: "Open Sans";
+	color: white;
+}
+
+.SmallTxt1{
+	font-size: 14px;
+	font-family: "Open Sans";
+	color: white;
+	margin-top: 30px;
+}
+.Button_2{
+	background:none;
+	width: 200px;
+	height: 50px;
+	border: 3px solid white;
+	border-radius: 5px;
+	font-size: 27px;
+	color: white;
+	margin-top: 50px; 
+}
+.Button_2:hover{
+	background: green;
+}
+.Map{
+	height: 635px;
+	background: url("Map.png") no-repeat;
+	background-size: cover;
+    padding-top: 156px;
+
+}
+.Circle{
+	width: 430px;
+	height: 430px;
+	border: 2px solid grey;
+	border-radius: 50%;
+	margin: 0 auto;
+	background: rgba(255,255,255,0.7);
+	margin-top: -340px;
+
+	}
+
+.Input{
+	display: flex;
+	flex-direction: column;
+	width: 275px;
+	margin: 0 auto;
+	padding-top: 165px;
+	
+
+}
+.Input input{
+	
+	
+	font-size: 15px;
+	color: lightgrey;
+	padding-left: 20px;
+	padding-top: 5px;
+
+	
+}
+.Input1{
+height: 35px;
+
+}
+
+.Input2{
+	margin-top: 30px;
+	height: 35px;
+}
+.Input3{
+	margin-top: 30px;
+	height: 79px;
+	
+}
+.Ok img{
+	display: block;
+	margin: 0 auto;
+ 
+   margin-top: -80px;
+
+}
+.Footer{
+	height: 45px;
+	background: #43a06d;
+	text-align:center;
+	padding-top: 15px;
+	color: white;
+}
+ 
+
+ 500 px -block   42%
+ 1200px- ekran
+
+ 1500px-ekran
+ 42% -        630px
